@@ -1,27 +1,8 @@
-<div align="center">
+# <img src="https://github.com/nyoom-engineering/nyoom-engineering/blob/main/out/made-with-3840x1330-shadow.png?raw=true" width="345"> (replace with generation)
 
-# oxocarbon-<app-name>
+<screenshot>
 
-</div>
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/nyoom-engineering/oxocarbon?color=%23b66467&style=for-the-badge)](https://github.com/nyoom-engineering/oxocarbon/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/nyoom-engineering/oxocarbon?color=%238c977d&style=for-the-badge)](https://github.com/nyoom-engineering/oxocarbon/issues)
-[![License](https://img.shields.io/github/license/nyoom-engineering/oxocarbon?color=%238da3b9&style=for-the-badge)](https://mit-license.org/)
-![Discord Server](https://img.shields.io/discord/1050624267592663050?color=738adb&label=Discord&Color=white&style=for-the-badge)
-
-</div>
-
-Oxocarbon is a set of community ports of IBM's carbon color palette and design philosophy to various applications and tooling.
-
-## Showcase
-
-<screenshots>
-
-## Install
-
-- Installation
+Oxocarbon is a High contrast accessible colorscheme inspired by IBM Carbon. It delivers class-leading readability without strain by adhering to WCAG 2.1 guidelines
 
 ## Features (optional)
 
@@ -31,11 +12,23 @@ Oxocarbon is a set of community ports of IBM's carbon color palette and design p
 
 - What plugins does it support
 
+## Installation
+
+- Installation Instructions
+
+### Development
+
+- Development Instructions
+
 ## FAQ (optional)
 
 - Q: **_"Where can I find the doc?"_**\
  A: Run `:help theme`
 
+## Contributing
+
+Before contributing, its recommended to read through the [style guide](https://github.com/nyoom-engineering/oxocarbon/blob/main/docs/style-guide.md). Discussion primarily takes place on the Nyoom Engineering discord server: https://discord.gg/M528tDKXRG
+
 ## License
 
-The project is licensed under the MIT license
+The project is vendored under the MIT license
